@@ -12,3 +12,4 @@ Below are the challenges I have completed so far:
 - Day 7: Write a program to check if a number is positive, negative, or zero.
 - Day 8: Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
 - Day 9: Write a program to check if a number is even or odd.
+- Day 10: Write a program to remove duplicates from a list.
