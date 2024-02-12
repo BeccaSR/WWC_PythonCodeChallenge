@@ -17,3 +17,4 @@ Below are the challenges I have completed so far:
 - Day 12: Write a program to reverse a given string.
 - Day 13: Write a program to shuffle the elements of a list randomly.
 - Day 14: Write a program to print the first n numbers of a Fibonacci sequence.
+- Day 15: Create a program that checks if a year is a leap year.
