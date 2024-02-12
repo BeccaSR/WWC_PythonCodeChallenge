@@ -13,3 +13,7 @@ Below are the challenges I have completed so far:
 - Day 8: Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
 - Day 9: Write a program to check if a number is even or odd.
 - Day 10: Write a program to remove duplicates from a list.
+- Day 11: Write a program to print the multiplication table of a given number.
+- Day 12: Write a program to reverse a given string.
+- Day 13: Write a program to shuffle the elements of a list randomly.
+- Day 14: Write a program to print the first n numbers of a Fibonacci sequence.
