@@ -18,3 +18,4 @@ Below are the challenges I have completed so far:
 - Day 13: Write a program to shuffle the elements of a list randomly.
 - Day 14: Write a program to print the first n numbers of a Fibonacci sequence.
 - Day 15: Create a program that checks if a year is a leap year.
+- Day 16: Write a function that counts the frequency of each word in a sentence.
