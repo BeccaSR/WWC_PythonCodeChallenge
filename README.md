@@ -19,3 +19,4 @@ Below are the challenges I have completed so far:
 - Day 14: Write a program to print the first n numbers of a Fibonacci sequence.
 - Day 15: Create a program that checks if a year is a leap year.
 - Day 16: Write a function that counts the frequency of each word in a sentence.
+- Day 17: Create a program that capitalizes the first letter of each word in a sentence.
