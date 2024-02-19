@@ -24,3 +24,4 @@ Below are the challenges I have completed so far:
 - Day 19: Write a function to calculate the factorial of a number.
 - Day 20: Write a function that takes a list of numbers and returns a new list containing only the even numbers.
 - Day 21: Create a program to remove a specific element from a set.
+- Day 22: Create a program to find the second-largest element in a list.
