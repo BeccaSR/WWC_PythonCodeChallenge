@@ -28,3 +28,6 @@ Below are the challenges I have completed so far:
 - Day 23: Write a program that checks if a key exists in a dictionary.
 - Day 24: Write a program to remove vowels from a given string.
 - Day 25: Create a program to concatenate two lists.
+- Day 26: Create a program that uses a lambda function to square each element of a list.
+- Day 27: Create a program that sorts a list of strings alphabetically.
+- Day 28: Create a program that removes the nth element from a list.
