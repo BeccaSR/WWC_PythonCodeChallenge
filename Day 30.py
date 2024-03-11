@@ -2,24 +2,28 @@
 # Create a function that finds the second smallest element in a list.
 
 def second_smallest(numbers):
-    # split values in numbers, using ',' as the delimiter
+    '''
+    This function takes in a string consisting of comma separated numbers,
+    it returns the second smallest element in the list.
+
+    The string is split, and a for loop is used to remove any whitespace
+    before converting each number into an integer.
+
+    The smallest number is removed from the number_int list.
+    Finally, a print statement is returned stating the smallest number
+    remaining from the list.
+    '''
     number_list = numbers.split(',')
 
-    # initialise empty list to hold values as integers
     number_int = []
 
-    # for loop for each value in list
-        # remove any whitespace
-        # convert string to integer and append to number_int list
     for number in number_list:
     
         num = number.strip()
         number_int.append(int(num))
 
-    # remove largest number from number_int list
     number_int.remove(min(number_int))
 
-    # print largest number remaining in list (second largest in original)
     print(f'The second smallest number in your list is {min(number_int)}.')
 
 
