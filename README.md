@@ -35,3 +35,9 @@ Below are the challenges I have completed so far:
 - Day 30: Create a function that finds the second smallest element in a list.
 - Day 31: Create a program that checks if a given string is a valid email address.
 - Day 32: Create a function that calculates the average of a list of numbers.
+- Day 33: Write a test case for a function that checks if a number is prime.
+- Day 34: Write a Python program to merge two dictionaries.
+- Day 35: Write a simple unit test for a function that adds two numbers.
+- Day 36: Write a Python program to check if two strings are anagrams.
+- Day 37: Write a program to iterate through a dictionary and print its keys and values.
+- Day 38: Write a program to flatten a nested list.
