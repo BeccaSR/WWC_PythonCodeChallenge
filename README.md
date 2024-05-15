@@ -48,3 +48,8 @@ Below are the challenges I have completed so far:
 - Day 43: Write a program that removes all whitespaces from a given string.
 - Day 44: Write a program that reads an integer from the user and handles invalid inputs.
 - Day 45: Write a function to check if a number is a prime number.
+- Day 46: Write a function to check if a given list is sorted.
+- Day 47: Create a program that imports the math module and uses its functions.
+- Day 48: Create a program that replaces specific words in a text with their synonyms.
+- Day 49: Create a program that implements the bubble sort algorithm.
+- Day 50: Create a program that finds the intersection and union of two sets.
