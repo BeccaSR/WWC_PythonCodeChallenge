@@ -41,3 +41,10 @@ Below are the challenges I have completed so far:
 - Day 36: Write a Python program to check if two strings are anagrams.
 - Day 37: Write a program to iterate through a dictionary and print its keys and values.
 - Day 38: Write a program to flatten a nested list.
+- Day 39: Write a program to find the most common words in a text file.
+- Day 40: Write a function to find the largest common divisor of two numbers using a function.
+- Day 41: **This is a work in progress**
+- Day 42: Write a program that uses a try-except block to handle division by zero.
+- Day 43: Write a program that removes all whitespaces from a given string.
+- Day 44: Write a program that reads an integer from the user and handles invalid inputs.
+- Day 45: Write a function to check if a number is a prime number.
