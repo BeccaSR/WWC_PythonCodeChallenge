@@ -43,7 +43,7 @@ Below are the challenges I have completed so far:
 - Day 38: Write a program to flatten a nested list.
 - Day 39: Write a program to find the most common words in a text file.
 - Day 40: Write a function to find the largest common divisor of two numbers using a function.
-- Day 41: **This is a work in progress**
+- Day 41: Write a program that uses recursion to generate all permutations of a list.
 - Day 42: Write a program that uses a try-except block to handle division by zero.
 - Day 43: Write a program that removes all whitespaces from a given string.
 - Day 44: Write a program that reads an integer from the user and handles invalid inputs.
@@ -55,3 +55,11 @@ Below are the challenges I have completed so far:
 - Day 50: Create a program that finds the intersection and union of two sets.
 - Day 51: Create a program that counts the occurrences of each word in a text file.
 - Day 52: Create a program that checks if a string is a palindrome.
+- Day 53: Create a program that allows users to draw on a canvas using a GUI.
+- Day 54: Create a function to find all words in a sentence that start with a vowel.
+- Day 55: Create a function that takes a string and returns the reverse of each word.
+- Day 56: Create a function to extract all URLs from a given text using regular expressions.
+- Day 57: Create a function that returns the key with the maximum value in a dictionary.
+- Day 58: Create a function that converts a string to an integer and handles ValueError.
+- Day 59: Create a function that checks if a number is a perfect square.
+- Day 60: Create a class representing a simple bank account with deposit and withdraw methods.
